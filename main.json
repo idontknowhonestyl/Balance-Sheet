@@ -11,7 +11,7 @@
       "DashingEndlag": 0.35,
       
       "M2Cooldown": 13,
-      "AerialM2Cooldown": 15,
+      "AerialM2Cooldown": 3,
       
       "BaseAttackInformation": {
         "Size": [5.75, 7, 5.5],
