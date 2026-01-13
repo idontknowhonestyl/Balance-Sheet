@@ -11,7 +11,7 @@
       "DashingEndlag": 0.35,
       
       "M2Cooldown": 13,
-      "AerialM2Cooldown": 3,
+      "AerialM2Cooldown": 15,
       
       "BaseAttackInformation": {
         "Size": [5.75, 7, 5.5],
@@ -39,7 +39,7 @@
         "AerialM2": {
           "Ragdoll": true,
           "DamageOrigin": "Weapon",
-          "Damage": 5,
+          "Damage": 1.5,
           "Blunt": true
         }
       },
