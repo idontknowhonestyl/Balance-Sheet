@@ -9,8 +9,10 @@
       "SlowEndLag": 0.4,
       "CombatSpeedMultiplier": 1.1,
       "DashingEndlag": 0.35,
+      
       "M2Cooldown": 13,
-
+      "AerialM2Cooldown": 15,
+      
       "BaseAttackInformation": {
         "Size": [5.75, 7, 5.5],
         "Offset": [0, 0, 2.5]
@@ -32,6 +34,13 @@
           "Flourish": true,
           "Blunt": true,
           "DamageOrigin": "Weapon"
+        },
+
+        "AerialM2": {
+          "Ragdoll": true,
+          "DamageOrigin": "Weapon",
+          "Damage": 1.5,
+          "Blunt": true
         }
       },
 
