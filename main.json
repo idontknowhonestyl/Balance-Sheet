@@ -49,7 +49,7 @@
           "DamageOrigin": "Weapon",
           "Damage": 1.5,
           "Blunt": true,
-          "Posture": 50,
+          "Posture": 50
         }
       },
 
