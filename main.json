@@ -13,6 +13,7 @@
       "M2Cooldown": 13,
       "AerialM2Cooldown": 15,
       "AirM1FinisherCD": 6,
+      "AerialM1CD": 7,
       
       "BaseAttackInformation": {
         "Size": [5.75, 7, 5.5],
@@ -50,6 +51,18 @@
           "Damage": 1.5,
           "Blunt": true,
           "Posture": 50
+        },
+
+        "AerialM1": {
+          "Timing" = 0.3,
+          "HitParameters": {
+            "FullStun": 0.3,
+            "Stun": 0.8,
+            "Blunt": true,
+            "DamageOrigin": "Weapon",
+            "Damage": 0.5,
+            "DontKnockOrKill": true
+          }
         }
       },
 
