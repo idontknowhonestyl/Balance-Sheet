@@ -12,6 +12,7 @@
       
       "M2Cooldown": 13,
       "AerialM2Cooldown": 15,
+      "AirM1FinisherCD": 6,
       
       "BaseAttackInformation": {
         "Size": [5.75, 7, 5.5],
@@ -41,6 +42,14 @@
           "DamageOrigin": "Weapon",
           "Damage": 1.5,
           "Blunt": true
+        },
+
+        "AirM1Finisher": {
+          "Ragdoll": true,
+          "DamageOrigin": "Weapon",
+          "Damage": 1.5,
+          "Blunt": true,
+          "Posture": 50,
         }
       },
 
