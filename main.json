@@ -39,7 +39,7 @@
         "AerialM2": {
           "Ragdoll": true,
           "DamageOrigin": "Weapon",
-          "Damage": 1.5,
+          "Damage": 5,
           "Blunt": true
         }
       },
