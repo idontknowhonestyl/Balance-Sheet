@@ -16,8 +16,8 @@
       "AerialM1CD": 7,
       
       "BaseAttackInformation": {
-        "Size": [5.75, 7, 5.5],
-        "Offset": [0, 0, 2.5]
+        "Size": [5.75, 7, 6.25],
+        "Offset": [0, 0, 2.85]
       },
 
       "StunConfig": {
