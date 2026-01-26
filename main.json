@@ -13,8 +13,8 @@
       "M2Cooldown": 13,
       "AerialM2Cooldown": 15,
       "AirM1FinisherCD": 6,
-      "AerialM1CD": 7,
-      "RunM1CD": 7,
+      "AerialM1CD": 5,
+      "RunM1CD": 3,
       
       "BaseAttackInformation": {
         "Size": [5.75, 7, 6.25],
